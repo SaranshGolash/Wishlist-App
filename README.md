@@ -4,4 +4,7 @@
 
 1. Created Application Using Kotlin Programming language.
 2. Software used is Android Studios.
- 
+3. Couroutines and MVVM is implemented.
+4. Use of dependency injecction.
+5. Scaffold is implemented.
+6. RoomDatabase is implemented(SQLite).
